@@ -4,5 +4,5 @@
 ### 2. Application of Neural Network to data in real life.
 ### 3. Application of principal component analysis (image identification and clustering).
 ## Fun of Kaggle
-### 1. [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview) \
+### 1. [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview) 
 **Models:** Classification Tree, Logistic regression, shallow NN built manually, NN with Keras
