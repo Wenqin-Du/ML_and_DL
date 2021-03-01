@@ -3,7 +3,7 @@
 ## Topics 
 ### 1. Application of EM Algorithm to GMM and K-Means photo compression.
 ### 2. Application of Neural Network to data in real life.
-       - Graph Neural Nets
+- Graph Neural Nets
 ### 3. Application of principal component analysis (image identification and clustering).
 
 ## Fun of Kaggle
