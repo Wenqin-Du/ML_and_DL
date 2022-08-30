@@ -6,5 +6,5 @@ SGDcomp is an optimizer that can learn a small sub-network during training, if o
 <p align="center">
 <img src="https://user-images.githubusercontent.com/32427262/187322768-b04b988a-96be-4fa5-bcde-59293434008c.png" width=46%/> <img src="https://user-images.githubusercontent.com/32427262/187322783-49da7f69-f821-42a1-9056-f18be6b13dfa.png" width=46.2%/>
 <br>
-<em> Figure: training curve and sparsity based on the simple 6-layer CNN provided in the Keras tutorial https://keras.io/examples/cifar10_cnn/. The experiments are done using lr = 0.005 for SGD, SGD momentum and gRDAs. c = 0.005 for gRDA. lr = 0.005 and 0.001 for Adagrad and Adam, respectively. </em>
+<em> Figure: Left: training curve and sparsity based on Cifar 10 using VGG16. Right: training curve and sparsity based on Cifar 100 using WRN28x10. </em>
 </p>
