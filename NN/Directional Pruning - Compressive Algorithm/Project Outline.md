@@ -1,5 +1,8 @@
-## haha
-#haha
-haha
+# Deep Neural Networks Project: Compressive Algorithm 
 
-<img width="94" alt="Screen Shot 2022-08-29 at 6 10 00 PM" src="https://user-images.githubusercontent.com/32427262/187320938-ba042a5c-b1dc-4ab4-ab51-a7a8655b42f3.png">
+# SGDcomp 
+SGDcomp is an optimizer that can learn a small sub-network during training, if one starts from an overparameterized dense network.
+
+
+# SAMcomp 
+Follow the same idea, apply the compressive algorithm to Sharpness-Aware Minimization (SAM) optimizer. Algorithm performence becomes even better.
